@@ -1,6 +1,7 @@
 /******************************************************************************
 
-6. Crie um programa que compara duas strings. Utilize a função strcm
+7. Crie um programa que compara duas strings. Dessa vez, não utilize a função strcmp
+
 
 *******************************************************************************/
 #include <stdio.h>
